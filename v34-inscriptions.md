@@ -18,3 +18,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Hahn - Clémentine - @ClementineHahn
 * Prat Homs - Jordi - @jordiprathoms
 * Plaindoux - Didier - @dplaindoux
+* Fuentes - Loïc - @fuentes_loic
