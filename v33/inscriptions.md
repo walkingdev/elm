@@ -16,3 +16,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/elm/blob/m
 * Fuentes - Loïc - fuentes.loic@gmail.com - @loicfuentes
 * Dusseaut - Jean-Baptiste @bodysplash
 * Tregan - Fabien - @ftregan
+* Hahn  - Clémentine - clementine.hahn@gmail.com - @ClementineHahn - 06.26.96.29.47
