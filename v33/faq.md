@@ -16,8 +16,8 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 15 décembre à 9h quelque part dans le centre de Bordeaux. On ne sait pas encore où, on vous dit dès que l'on sait.
-Et, ça se termine vers 18h30.
+La marche commencera le 15 décembre à 9h - [Au Partisan Café](https://www.facebook.com/PartisanCafeCapucins/) - marché des Capucins.
+Et, ça se termine vers 18h30 pour enchainer sur des trucs encore plus informels.
 
 ### C'est pour qui ?
 
@@ -33,7 +33,7 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 ### Mais c'est pas une formation ?
 
-Ben non. Enfin, ça dépend de toi.  Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
+Ben non. Enfin, ça dépend de toi. Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
 
 On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
 
