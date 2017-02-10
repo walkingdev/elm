@@ -23,5 +23,5 @@ Frais :
 * Partisan : **34,20** (s)
 
 ---
-- Stéphane : 292,80 - 59 = 320,30
+- Stéphane : 292,80 - 59 = **320,30**
 - Antoine : 
