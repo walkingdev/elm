@@ -58,6 +58,6 @@ image_url: https://github.com/walkingdev/elm/blob/master/v34/media/elm.png?raw=t
 **(s) : 455,50** - **(a) : 279,10**
 
 # Solde
-Stéphane => -455,5
-Antoine => 383 - 279,10 => 103,90
-Antoine devrait => (-455,5+103,90)/2 = 175,80 => 279,70 €
+Stéphane => -455,5  
+Antoine => 383 - 279,10 => 103,90  
+Antoine devrait => (-455,5+103,90)/2 = 175,80 => 279,70 €  
