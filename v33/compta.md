@@ -9,11 +9,10 @@ Participants :
 * Tregan - Fabien
 * Hahn - Clémentine
 
-4 * 59 => **236** (a)
-
 Préparation :
 * AirBnb : 173,00/4 - (43,25 * 2) => **86,50** (s)
 * Sncf Stéphane (Pàf) : 72 / 2 => **36** (s)
+* Sncf Antoine : 19 + 62 => **81** (a) 
 
 Frais :  
 * Verde Nero : **22** (s)
@@ -22,6 +21,11 @@ Frais :
 * Rempart : **18,90** (s)
 * Partisan : **34,20** (s)
 
+Recettes :
+* 3 * 59 + 1 * 89 => **266** (a)
+
 ---
-- Stéphane : **343,30**
-- Antoine : 
+- Stéphane : -343,30       + 264.15 => 79.15
+- Antoine :  -81     + 266 - 264.15 => 79.15
+- Antoine doit : (343.3 - 81) + (266 -  (343.3 - 81)) /2 => 264.15
+262;3
