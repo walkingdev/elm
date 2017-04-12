@@ -35,7 +35,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/v34/media/elm.png?raw=t
 	* Café Bun - x9 => 23,80 € (a)
 	* BdM - x9 => 24,80 € (s)
 	* Restaurant l’Olivier - x9 => 163,30 € (s)
-	* Restaurant l’Olivier - x9 => 12 € (a)
+	* Restaurant l’Olivier (cafés) => 12 € (a)
 	* La mer à boire - x9 => 20 € (a)
 
 * **Musée**
@@ -45,19 +45,19 @@ image_url: https://github.com/walkingdev/elm/blob/master/v34/media/elm.png?raw=t
 
 —
 **Total : 734,60 €**
+**(s) : 455,50** - **(a) : 279.10**
 —
-
 
 # Recettes
 
-## Prévisions
-* 5 = 49 € = 245 €
-* 2 = 69 € = 138 €
+* 4 = 49 € = 196 €
+* 3 = 69 € = 207 €
 
-**383 €** => (176,40 + 103 = 280) — 103  
-**(s) : 455,50** - **(a) : 279,10**
+**403 €** => 403 - (455,5 - 279,10)
+**(s) : 176,4 + 113,3** - **(a) : 113,3**
 
 # Solde
-Stéphane => -455,5  
-Antoine => 383 - 279,10 => 103,90  
-Antoine devrait => (-455,5+103,90)/2 = 175,80 => 279,70 €  
+Antoine devrait => (455.5 - 279,10) + (403 - (455.5 - 279,10))/2
+Stéphane => -455,5        + 289.7 => -165.80
+Antoine =>  -279,10 + 403 - 289.7 => -165.80
+
